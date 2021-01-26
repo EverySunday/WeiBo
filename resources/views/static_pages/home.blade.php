@@ -1,5 +1,9 @@
 @extends('layouts.default')
 
 @section('content')
-<h1>主页</h1>
+  <div class="jumbotron">
+    <h1>Hello Laravel</h1>
+    <p class="lead">这是一个Laravel示例项目主页</p>
+    <p>一切将从这里开始</p>
+  </div>
 @stop
